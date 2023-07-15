@@ -6,7 +6,7 @@ This project aims to develop and evaluate various recommendation algorithms for 
 
 The project leverages the following components for distributed computing:
 
-- **Hadoop Distributed File System (HDFS):** HDFS is used for storing and managing large-scale datasets across a cluster of machines. The `data.txt` file can be stored in HDFS for efficient data processing.
+- **Hadoop Distributed File System (HDFS):** HDFS is used for storing and managing large-scale datasets across a cluster of machines.
 
 - **YARN (Yet Another Resource Negotiator):** YARN is the resource management framework in Hadoop. It allows for efficient allocation of computational resources across the cluster, enabling parallel processing of tasks.
 
