@@ -1,0 +1,21 @@
+The datasets used in this study are publicly available datasets commonly used for evaluating recommendation systems. The three datasets used are MovieLens 100k, MovieLens 1M, and MovieLens 10M.
+
+1. MovieLens 100k: This dataset contains movie ratings provided by users of MovieLens. It consists of 100,000 ratings from 943 users on 1,682 movies.
+
+2. MovieLens 1M: This dataset contains movie ratings provided by users of MovieLens. It consists of 1,000,209 ratings from 6,040 users on 3,900 movies.
+
+3. MovieLens 10M: This dataset contains movie ratings provided by users of MovieLens. It consists of 10,000,054 ratings from 71,567 users on 10,681 movies.
+
+These datasets have been pre-divided into 90% for training and 10% for testing.
+
+The evaluation of different recommendation algorithms has yielded interesting results. Evaluation metrics such as RMSE, precision, recall, and F1 score provide us with an indication of the performance of the algorithms on the MovieLens datasets.
+
+RMSE (Root Mean Squared Error) is a metric commonly used to measure the average difference between predicted and actual ratings. A lower RMSE value indicates better accuracy of the algorithm's predictions.
+
+Precision measures the proportion of correctly recommended items out of the total recommended items. It focuses on the relevance of the recommendations made by the algorithm.
+
+Recall measures the proportion of correctly recommended items out of all the relevant items. It focuses on the algorithm's ability to retrieve relevant items.
+
+F1 score is the harmonic mean of precision and recall. It provides a balanced measure of both precision and recall, giving an overall assessment of the algorithm's performance.
+
+By analyzing these evaluation metrics on the MovieLens datasets, we can assess the effectiveness and performance of different recommendation algorithms.
